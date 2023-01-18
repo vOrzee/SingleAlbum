@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SingleAlbum</string>
+    <string name="background_button">Background button</string>
+    <string name="action_button">action_button</string>
+    <string name="main_artist">"Artist: "</string>
+    <string name="main_album">ALBUM</string>
+</resources>
